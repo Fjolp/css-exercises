@@ -1,0 +1,20 @@
+
+.odd-num {
+    background-color:#EE5353;
+    font-family: "Veradana", "DejaVuSans", sans-serif;
+}
+
+#poseban {
+    color:#53E1EE;
+    font: size 36px;
+}
+
+.kurac {
+    font: size 24px;
+}
+
+#cetvrti {
+    background-color:#3CED8E;
+    font: size 24px;
+    font-weight: bold;
+}
